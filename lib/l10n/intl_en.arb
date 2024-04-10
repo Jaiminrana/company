@@ -1,0 +1,13 @@
+{
+  "invalidResponse": "Invalid Response",
+  "noInternetConnection": "No internet connection.",
+  "noDataFound": "No data found!",
+  "oopsSomethingWentWrong": "Oops Something went wrong",
+  "oopsNoResultsFound": "Oops, No results found!",
+  "somethingWentWrong": "Something went wrong! Please try after some time.",
+  "search": "Search",
+  "countryData": "Country Data",
+  "deleteCountry": "{delete} is been deleted",
+  "flag": "Country flag view",
+  "back": "Back"
+}
